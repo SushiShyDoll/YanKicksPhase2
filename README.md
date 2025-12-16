@@ -25,99 +25,99 @@ To bridge the gap: Create a seamless connection between inventory management (Ad
 - GitHub Pages
 
 ## Site Structure
-Main HTML Files:
+- Main HTML Files:
 
-about.html
+- about.html
 
-account.html
+- account.html
 
-account-settings.html
+- account-settings.html
 
-best-sellers.html
+- best-sellers.html
 
-blog.html
+- blog.html
 
-brand-highlights.html
+- brand-highlights.html
 
-checkout.html
+- checkout.html
 
-contact.html
+- contact.html
 
-customer-service.html
+- customer-service.html
 
-email-hotline.html
+- email-hotline.html
 
-faqs.html
+- faqs.html
 
-featured-brands.html
+- featured-brands.html
 
-featured-products.html
+- featured-products.html
 
-index.html
+- index.html
 
-legal.html
+- legal.html
 
-login-register.html
+- login-register.html
 
-mission-vision.html
+- mission-vision.html
 
-my-orders.html
+- my-orders.html
 
-new-arrivals.html
+- new-arrivals.html
 
-our-story.html
+- our-story.html
 
-payment-confirmation.html
+- payment-confirmation.html
 
-payment-options.html
+- payment-options.html
 
-privacy-policy.html
+- privacy-policy.html
 
-promos.html
+- promos.html
 
-returns-exchange.html
+- returns-exchange.html
 
-shipping-delivery.html
+- shipping-delivery.html
 
-shoe-guide.html
+- shoe-guide.html
 
-shoe-reviews.html
+- shoe-reviews.html
 
-shop.html
+- shop.html
 
-shop-by-brand.html
+- shop-by-brand.html
 
-shop-by-category.html
+- shop-by-category.html
 
-shop-by-price.html
+- shop-by-price.html
 
-size-guide.html
+- size-guide.html
 
-sneaker-trends.html
+- sneaker-trends.html
 
-social-media.html
+- social-media.html
 
-store-hours.html
+- store-hours.html
 
-store-locations.html
+- store-locations.html
 
-terms-conditions.html
+- terms-conditions.html
 
-view-cart.html
+- view-cart.html
 
-why-choose-us.html
+- why-choose-us.html
 
-wishlist.html
+- wishlist.html
 
-Assets & Logic:
+- Assets & Logic:
 
-script.js
+- script.js
 
-styles.css
+- styles.css
 
-README.md
+- README.md
 
-assets (Folder)
+- assets (Folder)
 
 ## Design Concept
 - Color Scheme: Monochrome (Black & White) with soft gray accents to create a premium, urban streetwear aesthetic that lets the products stand out.
@@ -127,8 +127,8 @@ assets (Folder)
 - Layout: A fully responsive grid system for the product catalog, featuring a sticky navigation bar and ample whitespace to maintain a clean, uncluttered user experience
 
 ## Deployment
-[https://github.com/SushiShyDoll/YanKicksPhase2] - GitHub Repository:
-[https://sushishydoll.github.io/YanKicksPhase2/] - Live Site:
+- [https://github.com/SushiShyDoll/YanKicksPhase2] - GitHub Repository:
+- [https://sushishydoll.github.io/YanKicksPhase2/] - Live Site:
 
 ## Lessons Learned
 - Improved collaboration using Git
@@ -137,8 +137,8 @@ assets (Folder)
 - Improvements in Design
 
 ## Timeline
-| Phase | Task | Date |
-| Proposal | Planning & wireframe | Oct 14, 2025 |
-| Development | Coding & testing | Oct 15–Nov 20, 2025 |
-| Deployment | GitHub setup & launch | Nov 28, 2025 |
-| Submission | Final documentation | Dec 16, 2025
+- | Phase | Task | Date |
+- | Proposal | Planning & wireframe | Oct 14, 2025 |
+- | Development | Coding & testing | Oct 15–Nov 20, 2025 |
+- | Deployment | GitHub setup & launch | Nov 28, 2025 |
+- | Submission | Final documentation | Dec 16, 2025
